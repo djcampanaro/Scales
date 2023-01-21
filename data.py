@@ -22,7 +22,8 @@ SCALES = {
     "Blues Scale": [3, 2, 1, 1, 3, 2],
     "Tritone Scale": [1, 3, 3, 1, 3, 2],
     "Major Pentatonic Scale": [2, 2, 3, 2, 3],
-    "Minor Pentatonic Scale": [3, 2, 2, 3, 2]
+    "Minor Pentatonic Scale": [3, 2, 2, 3, 2],
+    "Chromatic Scale": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 }
 
 MUSIC_NOTES = {
