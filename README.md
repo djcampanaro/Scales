@@ -1,6 +1,6 @@
 # ScaleFinder
 
-This python project allows a user to enter musical notes in order, and then determines the corresponding scale.
+This Python project allows a user to enter musical notes in order, and then determines the corresponding scale.
 
 Once the program is installed and run, 
 the user can enter the notes of a scale in order separated by commas and/or spaces. As the notes are typed in, 
